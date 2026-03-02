@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "うまくいくんだよきっと",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T19:40:42.812670Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うまくいくんだよきっと",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_うまくいくんだよきっと_サンボマスター.txt"
+    }
+  ]
+}
